@@ -1,5 +1,7 @@
 # File_Change_Monitor
-A matlab program running on Win/Linux
+A matlab program running on Win/Linux.
+
+Run filemonitor.m in Matlab. filemonitor.m is the main program.
 
 Tutorial:
 
